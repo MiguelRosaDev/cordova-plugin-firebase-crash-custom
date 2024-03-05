@@ -29,7 +29,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
          <preference name="IOS_FIREBASE_CRASHLYTICS_VERSION" default="~> 8.13.0"/>
          <preference name="IOS_FIREBASE_CRASHLYTICS_VERSION" default="~> 10.17.0"/>
         -->
-        <preference name="IOS_FIREBASE_CRASHLYTICS_VERSION" default="~> 8.13.0"/>
+        <preference name="IOS_FIREBASE_CRASHLYTICS_VERSION" default="~> 10.17.0"/>
 
         <!--
         <hook type="after_plugin_install" src="hooks/ios/after_plugin_install.js" />
